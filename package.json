@@ -1,0 +1,8 @@
+{
+  "name": "haasts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ashishmalikar/ajna-app.git",
+  "author": "\"Ashish k. Malikar\"",
+  "license": "MIT"
+}
